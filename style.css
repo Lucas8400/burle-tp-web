@@ -45,7 +45,7 @@ p{
 }
 
 .material-icons:hover{
-    cursor: default;
+    cursor: pointer;
     opacity: 0.5;
 }
 
