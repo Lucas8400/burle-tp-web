@@ -103,12 +103,12 @@ p{
 }
 
 .basicfit{
-    background-image: url("/images/basicfit-image.jpg");
+    background-image: url("./images/basicfit-image.jpg");
     background-size: cover;
 }
 
 .fitnesspark{ 
-    background-image: url("/images/fitnesspark.jpg");
+    background-image: url("./images/fitnesspark.jpg");
     background-size: cover;
 }
 
@@ -118,36 +118,36 @@ p{
 }
 
 .larry{
-    background-image: url("/images/larry.jpg");
+    background-image: url("./images/larry.jpg");
     background-size: cover;
 }
 
 .maison{
-    background-image: url("/images/salon.jpg");
+    background-image: url("./images/salon.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .vestiaires{
-    background-image: url("/images/vestiaires.jpg");
+    background-image: url("./images/vestiaires.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .brutus{ 
-    background-image: url("/images/brutus.jpg");
+    background-image: url("./images/brutus.jpg");
     background-size: cover;
     background-position: 50%;
 }
 
 .natty{
-    background-image: url("/images/tibo.jpg");
+    background-image: url("./images/tibo.jpg");
     background-size: cover;
     background-position: 50% 0%;
 }
 
 .chargé{
-    background-image: url("/images/chargé.jpg");
+    background-image: url("./images/chargé.jpg");
     background-size: cover;
     background-position: 50%;
 }
@@ -163,7 +163,7 @@ p{
     width: 400px; 
     border: 1px solid rgba(0, 0, 0, 1);
     border-radius: 50%;
-    background-image: url("/images/coleman.jpg");
+    background-image: url("./images/coleman.jpg");
     background-size: cover;
     background-position: 50% 0%;
 }
